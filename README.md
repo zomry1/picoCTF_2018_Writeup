@@ -4,7 +4,7 @@
 # Content Page
  - [Binary Exploitation](https://github.com/zomry1/picoCTF_2018_Writeup#binary-exploitation)
  - [Cryptography](https://github.com/zomry1/picoCTF_2018_Writeup#cryptography)
- - [Forensics](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/Forensics)
+ - [Forensics](https://github.com/zomry1/picoCTF_2018_Writeup#forensics)
  - [General Skills](https://github.com/zomry1/picoCTF_2018_Writeup#general-skills)
  - [Reversing Engineering](https://github.com/zomry1/picoCTF_2018_Writeup#reversing-engineering)
  - [Web Exploitation](https://github.com/zomry1/picoCTF_2018_Writeup#web-exploitation)
