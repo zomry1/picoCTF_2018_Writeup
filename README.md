@@ -2,12 +2,12 @@
 # picoCTF 2018 Writeup
 
 # Content Page
- - [Binary Exploitation](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/Forensics)
- - [Cryptography](#cryptography)
+ - [Binary Exploitation](https://github.com/zomry1/picoCTF_2018_Writeup#binary-exploitation)
+ - [Cryptography](https://github.com/zomry1/picoCTF_2018_Writeup#cryptography)
  - [Forensics](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/Forensics)
- - [General Skills](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/General%20Skills)
- - [Reversing](#reversing)
- - [Web Exploitation](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/General%20Skills)
+ - [General Skills](https://github.com/zomry1/picoCTF_2018_Writeup#general-skills)
+ - [Reversing Engineering](https://github.com/zomry1/picoCTF_2018_Writeup#reversing-engineering)
+ - [Web Exploitation](https://github.com/zomry1/picoCTF_2018_Writeup#web-exploitation)
 ## Favorite Challenges
  - [Secured Logon](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/Web%20Exploitation/Secured%20Logon)
  - Soon...
@@ -27,6 +27,7 @@
 
 ## Cryptography
 **Completed(3/20)**
+
 |Challenges|Points|Solved|
 |-|:--:|:--:|
 |Crypto Warmup 1|75|Yes|
@@ -39,6 +40,7 @@
 
 ## Forensics
 **Completed(2/24)**
+
 |Challenges|Points|Solved|
 |-|:--:|:--:|
 |[Forensics Warmup 1](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/Forensics/Forensics%20Warmup%201)|50|Yes|
@@ -56,6 +58,7 @@
 
 ## General Skills
 **Completed(10/20)**
+
 |Challenges|Points|Solved|
 |-|:--:|:--:|
 |[General Warmup 1](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/General%20Skills/General%20Warmup%201)|50|Yes|
@@ -79,8 +82,9 @@
 |script me|500||
 |...|...||
 
-## Reversing
+## Reversing Engineering
 **Completed(2/21)**
+
 |Challenges|Points|Solved|
 |-|:--:|:--:|
 |Reversing Warmup 1|50|Yes|
@@ -92,6 +96,7 @@
 
 ## Web Exploitation
 **Completed(11/21)**
+
 |Challenges|Points|Solved|
 |-|:--:|:--:|
 |[Inspect Me](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/Web%20Exploitation/Inspect%20Me)|125|Yes|
