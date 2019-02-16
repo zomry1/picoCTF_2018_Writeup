@@ -17,12 +17,12 @@
 
 |Challenges|Points|Solved|
 |-|:--:|:--:|
-|[buffer overflow 0]()|150||
-|[leak-me]()|200||
-|[shellcode]()|200||
-|[buffer overflow 2]()|250||
-|[echooo]()|300||
-|[got-shell?]()|350||
+|buffer overflow 0|150||
+|leak-me|200||
+|shellcode|200||
+|buffer overflow 2|250||
+|echooo|300||
+|got-shell?|350||
 |...| ...||
 
 ## Cryptography
