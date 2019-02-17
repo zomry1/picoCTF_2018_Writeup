@@ -58,7 +58,7 @@
 
 
 ## General Skills
-**Completed(10/20)**
+**Completed(11/20)**
 
 |Challenges|Points|Solved|
 |-|:--:|:--:|
@@ -80,7 +80,7 @@
 |in out error|275||
 |learn gdb|300||
 |store|400||
-|script me|500||
+|[script me](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/General%20Skills/script%20me)|500|Yes|
 |...|...||
 
 ## Reversing Engineering
