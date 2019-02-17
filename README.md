@@ -10,6 +10,7 @@
  - [Web Exploitation](https://github.com/zomry1/picoCTF_2018_Writeup#web-exploitation)
 ## Favorite Challenges
  - [Secured Logon](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/Web%20Exploitation/Secured%20Logon)
+ - [buffer overflow 0](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/Binary%20Exploitation/buffer%20overflow%200)
  - Soon...
 
 ## Binary Exploitation
@@ -17,7 +18,7 @@
 
 |Challenges|Points|Solved|
 |-|:--:|:--:|
-|buffer overflow 0|150||
+|[buffer overflow 0](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/Binary%20Exploitation/buffer%20overflow%200)|150||
 |leak-me|200||
 |shellcode|200||
 |buffer overflow 2|250||
