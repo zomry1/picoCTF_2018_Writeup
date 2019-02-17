@@ -11,6 +11,7 @@
 ## Favorite Challenges
  - [Secured Logon](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/Web%20Exploitation/Secured%20Logon)
  - [buffer overflow 0](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/Binary%20Exploitation/buffer%20overflow%200)
+ - [Script Me](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/General%20Skills/Script%20Me)
  - Soon...
 
 ## Binary Exploitation
@@ -80,7 +81,7 @@
 |in out error|275||
 |learn gdb|300||
 |store|400||
-|[script me](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/General%20Skills/script%20me)|500|Yes|
+|[script me](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/General%20Skills/Script%20Me)|500|Yes|
 |...|...||
 
 ## Reversing Engineering
