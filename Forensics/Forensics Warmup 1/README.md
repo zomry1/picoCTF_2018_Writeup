@@ -1,5 +1,5 @@
 
-# *Resources*
+# *Forensics Warmup 1*
 
 ## Information
 | Points |Category  | Level|
