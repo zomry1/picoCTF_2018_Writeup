@@ -12,6 +12,7 @@
  - [Secured Logon](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/Web%20Exploitation/Secured%20Logon)
  - [buffer overflow 0](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/Binary%20Exploitation/buffer%20overflow%200)
  - [Script Me](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/General%20Skills/Script%20Me)
+ - [caesar cipher 1](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/Cryptography/caesar%20cipher%201)
  - Soon...
 
 ## Binary Exploitation
@@ -32,10 +33,10 @@
 
 |Challenges|Points|Solved|
 |-|:--:|:--:|
-|Crypto Warmup 1|75|Yes|
-|Crypto Warmup 2|75|Yes|
+|[Crypto Warmup 1](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/Cryptography/Crypto%20Warmup%201)|75|Yes|
+|[Crypto Warmup 2](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/Cryptography/Crypto%20Warmup%202)|75|Yes|
 |HEEEEEEERE'S Johnny!|100|Yes|
-|caesar cipher 1|150||
+|[caesar cipher 1](https://github.com/zomry1/picoCTF_2018_Writeup/tree/master/Cryptography/caesar%20cipher%201)|150|Yes|
 |hertz|150||
 |rsa-madlibs|250||
 |...|...||

@@ -24,10 +24,12 @@ the key is:
 And we got this table:
 ![Table](https://i.imgur.com/xhQEzqN.png)
 
-the legnth of each key and ciphertext is eqaul so probably for each char in the    plaintext (the original text) we use the char in the same index in our key and this gives us the ciphertext.
-After some searching in google I found an encryption with the name **"[Vigenère cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)"**  and the description of it look the same encryption we use here, and in this encryption they use the same table called "**[Vigenère square](https://en.wikipedia.org/wiki/Tabula_recta)**".
-
-So for being lazy I just used [this site](https://www.dcode.fr/vigenere-cipher) in order to decrypt the ciphertext, and got the flag.
+The length of each key and ciphertext is equal so probably for each char in the    plaintext (the original text).  
+We use the char in the same index in our key and this gives us the ciphertext.  
+After some searching in google I found an encryption with the name  **"[Vigenère cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)"**  
+and the description of it look the same encryption we use here, and in this encryption they use the same table called "**[Vigenère square](https://en.wikipedia.org/wiki/Tabula_recta)**".  
+  
+So for being lazy I just used [this site](https://www.dcode.fr/vigenere-cipher) in order to decrypt the ciphertext, and got the flag.  
 
 ## Flag
 > `picoCTF{secretmessage}`

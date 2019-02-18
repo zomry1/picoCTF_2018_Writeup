@@ -24,10 +24,10 @@ In Caesar cipher the key can be between 0 to 25 and for each letter we   replace
 In more formal representation the encryption is:  
 ![Encryption](https://wikimedia.org/api/rest_v1/media/math/render/svg/77b59c7a676a99610ddee4ffc305aa7f9cda3b1a)
 
-  **x**  - the letter we want to encrypt
-**n** - the key
-**En(x)** - the ciphertext for n and x
-
+  **x**  - the letter we want to encrypt  
+**n** - the key  
+**En(x)** - the ciphertext for n and x  
+  
 And the decryption is just the reverse of this operation:  
 ![Decryption](https://wikimedia.org/api/rest_v1/media/math/render/svg/8ed607e0202ff8d35aa41559f846cac9d358a362)    
 So I wrote a python script to try each valid key value for the ciphertext we got:  
